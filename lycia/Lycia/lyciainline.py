@@ -67,7 +67,7 @@ async def lyciachatbot(answers, text):
 **Lycia:** `{result['message']}`"""
     answers.append(
         InlineQueryResultPhoto(
-            photo_url="https://telegra.ph/file/4fd47f6ab742a28b5e57c.jpg",
+            photo_url="https://telegra.ph/file/6aefa01f72de61e7beaa7.jpg",
             caption=caption,
             reply_markup=buttons
         ))
