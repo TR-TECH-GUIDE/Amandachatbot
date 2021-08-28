@@ -1,0 +1,11 @@
+{
+    "name": "Amanda",
+    "description": "Hello, I am Amanda [リュキア], An Intelligent ChatBot. If You Are Feeling Lonely, You can Always Come to me and Chat With Me!",
+    "logo": "https://telegra.ph/file/6aefa01f72de61e7beaa7.jpg",
+    "repository": "https://github.com/TR-TECH-GUIDE/Lyciachatbot",
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
